@@ -1,0 +1,149 @@
+header {
+    background-color:blueviolet;
+    font-family: "Fondamento";
+    color:turquoise;
+    padding-left: 10px;
+}
+
+h3 {
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+}
+
+ul {
+    display: inline;
+}
+
+li {
+    display: inline-block;
+    margin-left: 70px;
+    font-size: 20px;
+    transition: all 1s;
+}
+
+h3 a {
+    text-decoration: none;
+    color: turquoise;
+}
+
+li a {
+    text-decoration: none;
+    color: turquoise;
+}
+section a {
+    text-decoration: none;
+}
+
+li:hover {
+    transform: scale(2);
+}
+
+li a:hover {
+    color: black;
+}
+
+body {
+    font-family: "Fondamento";
+    color:turquoise;
+    background-color:teal;
+}
+img {
+    transition: all 1s;
+}
+
+h1 {
+    text-align: center;
+}
+
+.box {
+    width: 800px;
+    margin: 10px auto;
+    padding: 20px;
+    border: 5px dotted purple;
+    border-radius: 30px;
+    background-color: black;
+    white-space: pre-line;
+}
+
+.link {
+    text-decoration: none;
+    color: turquoise;
+}
+
+#link {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+section img {
+    border: 2px solid teal;
+    border-radius: 30px;
+    width: 150px;
+    height: fit-content;
+}
+
+section img:hover {
+    width: 100%;
+}
+
+.crew {
+    width: 1500px;
+    margin: 10px auto;
+    padding: 10px;
+    border: 5px dotted purple;
+    border-radius: 30px;
+    background-color: black;
+    font-size: 18px;
+    background-color: black;
+}
+
+.crew h3 {
+    text-align: center;
+    width: 100%;
+    font-size: 30px;
+}
+.crewinfo {
+    display: flex;
+    column-gap: 100px;
+}
+
+.info {
+    display: inline;
+    margin-left: 20px;
+    width: 1000px;
+    white-space: pre-line;
+}
+
+div img {
+    width: 300px;
+    margin-left: 20px;
+    /* height: fit-content;    */
+}
+
+.info a {
+    text-decoration: none;
+    color: turquoise;
+}
+
+.qaa {
+    margin: 100px;
+}
+
+.qaa h4 {
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.frage {
+    font-style: italic;
+}
+
+.lieder {
+    width: 800px;
+    margin: 10px auto;
+    padding: 20px;
+    border: 5px dotted purple;
+    border-radius: 30px;
+    background-color: black;
+}
