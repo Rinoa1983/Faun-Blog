@@ -1,3 +1,8 @@
+#disclaimer {
+    text-align: center;
+    text-decoration: underline;
+}
+
 header {
     background-color:blueviolet;
     font-family: "Fondamento";
@@ -9,10 +14,12 @@ h3 {
     display: inline-block;
     width: 100px;
     text-align: center;
+    
 }
 
 ul {
     display: inline;
+
 }
 
 li {
